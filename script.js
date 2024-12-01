@@ -1,3 +1,4 @@
+console.log("Hello from form-chess/script.js");
 function moveAllChess(moves) {
     let autoPlayInterval = null; // Lưu trữ interval cho Auto Play
     function letterToColumn(letter) {
